@@ -1,6 +1,6 @@
 ## Cool Markdown
 
-Cssfdsfoasdffde BdsfaGHXWANYTHINGlock
+Code Block in Markdown
 
 ```
 print 'Hello World!'
