@@ -1,1 +1,7 @@
-awesome_page.md
+## Cool Markdown
+
+Code Block
+
+```
+print 'Hello World!'
+```
